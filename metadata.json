@@ -1,0 +1,6 @@
+{
+  "name": "Container Management System",
+  "description": "An expert-level container management and real-time tracking portal with automated secure logins, idle-timeout, and smart logistics risk evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
